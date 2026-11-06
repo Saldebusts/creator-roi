@@ -1,0 +1,16 @@
+# Archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Entornos de Python
+.venv/
+venv/
+
+# Credenciales y configuración privada
+.env
+.streamlit/secrets.toml
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
