@@ -1,5 +1,11 @@
 # SEÑAL · Creator Intelligence
 
+## Aplicación online
+
+[Abre SEÑAL · Creator Intelligence](https://creator-roi-uv9vtywsvccrmajsujlhyg.streamlit.app/)
+
+Explora el catálogo, compara candidatos y estima una tarifa por reel directamente desde el navegador.
+
 **Encuentra la señal. Elige con criterio.**
 
 SEÑAL es una aplicación de análisis de datos para explorar creadores de Instagram, comparar candidatos y obtener una referencia de tarifa por reel.
